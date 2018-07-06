@@ -1,0 +1,56 @@
+
+{
+  "project_info": {
+    "project_number": "127694973279",
+    "firebase_url": "https://givoo-77011.firebaseio.com",
+    "project_id": "givoo-77011",
+    "storage_bucket": "givoo-77011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127694973279:android:b9d96c0995d1aa0c",
+        "android_client_info": {
+          "package_name": "com.givoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127694973279-ctds1u7snnt91frovkq4n0440tdn24rk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.givoo",
+            "certificate_hash": "5d5414a1a2358a88aa51a2aa03879674e418dfa4"
+          }
+        },
+        {
+          "client_id": "127694973279-bisqp2nlqm1b90cdjclsom2pt4j784in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-DNFD1ImcstIw0KqAoMeQCRCZ9o3K5K8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127694973279-bisqp2nlqm1b90cdjclsom2pt4j784in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

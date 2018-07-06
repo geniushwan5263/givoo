@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/64f04344192f35d7f74d3621ffcb2cc0174d5cd5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8d813c05361147f6f515f749df19223cd6256314">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_2348a64e5ada6910f6b504309f6c1dc4902132d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/580ee050257b5d9ec2b490075aa4cfdda49c28ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_6dbd8c599e55114c39e552d70a90c1b6e6ec6cf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/45fef340556a61e0832b0fd4a177ba678f429010/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="4d4d98a0428b2e620e6b4a228ef9f7cb2f0debd2">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_a5c6bd3d078df7834d75596313578a7556ba372b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_826be2254129bf1e49ff5fdff21361d518199ee5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/b163d552a009d6c6e2c69dd76b55657e628d9872/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c1e9d140d3260619ce2fa991d30b14b531d61dec">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_162c93403ef31d5a222b585f6b5eb885fd7e01c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/fdf61a29cd7695096f29e3d658c4bffa43426fa3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_c9dc8ff3944ec8e5a5124c4c92309d76f309008e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/39e828965d8f539504bbe5748e996cedbf0c5b04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d8fe6d91310b54734f454dd490c3c869f6290576">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_115a5b111e3637152d45772195018c87250463f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/19a17d95a4b7f6979e040fab11d165cef32482e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_108fc22f5f12105d9fb6ed02f88998cc11358fca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/2f17c63f4f37d0055edb620b5697b96c4a51a9a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1e224748cbf54c34eac0bca6376922468b786775">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_b58644bb3b69202031ed6992cfd44396afd9021b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_85d3791fcf9332a58a995973168ee20bc0bea5e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/664ca073a6457282abd7d046d5e652fc3797f918/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="63413895dce50f6123807d1db2274a1982a34194">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_dc7c82c31b097af5fd60c108811ba8a68179a1a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/0d1a4340c4a19fd0fc2677e59705c7fcbaf26dd7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a66ffce1d574f71569fedd39d178da5856f0a84b">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_ef2b572aca069b9bc9a39c8d533bab1319894459.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_dddfd9168ee57190dd9dac5e3f21bc29c6c43e83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/b4a6b2b71508f60354997b1074932088e3e253fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_d973d94a1e182174b64eb86229d74d4478d42c12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/c4f82804f23bcc9ad101fc1062b5be474aaed41f/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_ce92ce2493dbd8fcd7b1755b71059961abd85498.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/e9d74fb4bf8dc8f944db0081b969ea66d23868f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_30eaac4e83c1eee03e950811af3de04855b379cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/529a748c75d85a51493a4c9a561301847d718703/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3e2b946046fb1d10649a06811b870f2eca30ea53">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_ed57817b1bf8b024266b598eb0d0bd2f2cac77e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/7c7992953173f95e6b72493e4f3bada2bf25ad9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_d380aafaa894e3df8c1f09e4554b549cdc464ebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/9b7ad1c0ae81c012e50eaa0efbba9def3c3b6267/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_cd7eecadc83558d87d35f0ff9d1ea61f66b604a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/4c024009dbce30f1562a8b1b05a293051dafa0a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_259387a5cf9e9f329b912bfad6e3f27f79a47ee5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b3c46588852adb33036490ce7176397000a653fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/c619a7ff6b9af8bb4ba898e1376dbc0e4a7eb875/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_c10f27b927cd530b1395ccb3c3450b00938044ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/f49ff847c0db99a13bf7d03f23a966c823c22f82/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_8dfdb17f87eba9d6d5bf3ac454a99b8d907a7750.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/c3f59083ab0ff47eee5c4cc953eac84e2c866830/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_267f5b25f1ddf2a8542529ac3ed299fac926bcbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/32e39a7f2cb59a61ddbabfed2d1d517d6ed66859/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6a13da3b2de1cb4d43145994271c4d9e6ac060be">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_29f4393c93a00f5fb7d376014ce700dde23fa348.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_822d0ce0cc5d8e9798d014558d2758ffd213d959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_d6998207cc0c783c663efe5f6a1e766a7e481146.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/97bed87369e5089ff2d399f79f740dbe3a8a8262/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0fbef528093d3d19b229116b683bd2a66d4aeae1">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_b8053223ecb111e73aff4d15fb7137e48430ad25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/0707f2696f9f5d0a303d93379ba6fcfcf44d83cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_41eb3a861927ac5ba74bc7a7a3bd55bc813b6ed9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/1705e07dc064de8df3c7c8232f41b1dfee7356b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f9148af2391a1288519f4f1d38da060c4a640e85">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_15c24e16519b1458603950d4ad8cce6ec51083bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/a52ecffaed35b1d5b7ddfaf5863f45b6eae766e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_62c61da11c0b0d465adeadf6da646f9fd7754b8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/18d549061289c0ee6c59984b021aadee5151e6ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6bd97fd543ffb061a7d3f2f9d6247f4b5e0017f5">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_007557b8ea336e8a27affa461dc38a3db4261a0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/8443094feaa69aa327489fe0722975b7a781a181/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_cff40061ea5ead55fa77c7afd981997d1dc8350c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/a604993a7e90b6b747f3a906f9ab1c480bd16f9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2a69972573cb7e5cc6b8652bacf981e82b68ff71">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_59f3ca76fdeae03a2b6e8f81482ef68b16802dac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/1e79e960255056e8429235a2784dd50b5251da7f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_8ecaaf74cbe8a6c2352ee566347df21bfff770aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_f019a768c19b2041a8f210a4f6c6b1a31f2bc191.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/157444534dc0662a00d01731fdcca1215325f1f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_2f151fedae8adf14e53a3d4abab90d252defde2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_92ff031581505282fadc66d4089ce4879193f75a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/cc0535a385e1726a43638d550c9c17d7c2f3cb23/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_03b2ddb113df892b9e585e74325ddd37961e3389.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_43e550be3b17212616075ce90305ba47d4da22fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/a7494687ad00a0008410463f6610e6c43531e2f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_d08af14122eed80e8e8ef6ad9537caa49e837775.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_08401f734ff48aec6eb12d3c992265f9f07baeb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brandon/.android/build-cache/c4f82804f23bcc9ad101fc1062b5be474aaed41f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/brandon/Doc/project/givoo/givoo/android/app/build/intermediates/pre-dexed/debug/classes_ec3453a8d9ca8b85a23bc8f1e9a2fdbce8eaa808.jar" />
+    </item>
+
+</items>
